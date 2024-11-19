@@ -32,9 +32,9 @@ build/
 .DS_Store
 Thumbs.db
 
-# Tailwind CSS
-tailwind.config.js
-postcss.config.js
+# # Tailwind CSS
+# tailwind.config.js
+# postcss.config.js
 
 # IDEs and Editors
 .idea/
